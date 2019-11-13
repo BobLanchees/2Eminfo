@@ -1,0 +1,11 @@
+#titulo{
+    font-family:"OCR A Std, monospace";
+    font-style: oblique;
+    font-size: 64px;
+}
+.tt {
+    opacity: 0.3;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    background: url(https://media.istockphoto.com/vectors/science-template-wallpaper-or-banner-with-a-dna-molecules-vector-id681208262);
+    background-size: 100%;
+  }
